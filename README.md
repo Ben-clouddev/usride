@@ -45,4 +45,4 @@ Solar tricycles (Kekes) are running on the University of Benin campus, but there
 [Vercel, Paystack, Google map api]
 
 ## Contact
-[kccbenmartins@gmail.com] · [LinkedIn](www.linkedin.com/in/benjamin-martins-3b4342340)
+kccbenmartins@gmail.com · [LinkedIn](www.linkedin.com/in/benjamin-martins-3b4342340)
